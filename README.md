@@ -15,4 +15,4 @@ These are not my original projects — they were made by following educational m
 I rewrote the code manually, followed tutorials step by step, and made small adjustments to better understand web development concepts and code structure.
 
 
-⭐ *This repository is my personal playground for learning. It will be interesting to see how it evolves as I start understanding more and more code!
+⭐ This repository is my personal playground for learning. It will be interesting to see how it evolves as I start understanding more and more code!
