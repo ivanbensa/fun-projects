@@ -1,4 +1,4 @@
-# 🥳 Fun Projects
+# 😎 Fun Projects
 
 This repository contains small JavaScript projects that I built while following tutorials on "YouTube", "Udemy", and other online learning platforms.  
 The main goal is to practice understanding code, project structure, and JavaScript logic through practical examples.
